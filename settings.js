@@ -36,24 +36,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94785602293'] //ur owner number
+global.ownername = "Dineth Rusiru" //ur owner name
+global.ytname = "YT: Dineth Geek" //ur yt chanel name
+global.socialm = "FB : Dineth Rusiru" //ur github or insta name
+global.location = "Sri Lanka, Matara" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.owner = ['94785602293']
+global.ownertag = '94785602293' //ur tag number
+global.botname = '•°Dineth Bot°•' //ur bot name
+global.ig = "https://m.youtube.com/watch?v=V1ULk8G1q-w" //your theme url which will be displayed on whatsapp
+global.myweb = "https://m.youtube.com/channel/UCpm8tjbf_IbidQWb9YDxDXw" //ur website to be displayed
+global.sc = 'https://m.youtube.com/watch?v=l-Rg2k4IjRw' //script link
+global.linkz = 'https://m.youtube.com/watch?v=l-Rg2k4IjRw'
+global.reactmoji = "😉" //ur menu react emoji
+global.themeemoji = "🚫" //ur theme emoji
+global.packname = "°•°•dInEtH rUsIrU•°•°" //ur sticker watermark packname
+global.author = "Dineth Rusiru" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94785602293'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -93,15 +93,15 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
+    success: 'හලී... 😊',
+    admin: 'අනේ අනේ බූලු පැටියො ඇඩ්මින්ලට විතරයි එහෙම කරන්න පුලුවන් 🤭',
+    botAdmin: 'මට ඇඩ්මින් දෙන්නකෝ ඉස්සෙල්ලා.. නැතුව එහෙම කරන්න බෑ අනේ 😥',
+    owner: 'මගේ අයිතිකාරයට විතරයි ඒක කරන්න පුලුවන්.. ඔයාට බැ.. හූ...🤭',
+    group: 'එහෙම කරන්න පුලුවන් ගෲප්වල විතරයි මැට්ටො 🤭',
+    private: 'එහෙම කරම්න ඕනනම් ඉන්බොක්ස් එන්නකෝ 😊',
+    bot: '🚫🚫🚫🚫🚫',
+    wait: 'පොඩ්ඩක් ඉන්නකෝ මැනික 😊',
+    linkm: 'කෝ අනේ ලින්ක් එක 🤔 මට හොයාගන්න බෑ 😞',
     error: '✉️🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
