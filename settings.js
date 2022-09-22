@@ -36,24 +36,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94785602293'] //ur owner number
-global.ownername = "Dineth Rusiru" //ur owner name
+global.vcardowner = ['94723342742'] //ur owner number
+global.ownername = "kavishka" //ur owner name
 global.ytname = "YT: Dineth Geek" //ur yt chanel name
-global.socialm = "FB : Dineth Rusiru" //ur github or insta name
+global.socialm = "FB : kavishka dulanja" //ur github or insta name
 global.location = "Sri Lanka, Matara" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94785602293']
-global.ownertag = '94785602293' //ur tag number
-global.botname = '•°Dineth Bot°•' //ur bot name
+global.owner = ['94723342742']
+global.ownertag = '94723342742' //ur tag number
+global.botname = '•°R4K TEDDY°•' //ur bot name
 global.ig = "https://m.youtube.com/watch?v=V1ULk8G1q-w" //your theme url which will be displayed on whatsapp
 global.myweb = "https://m.youtube.com/channel/UCpm8tjbf_IbidQWb9YDxDXw" //ur website to be displayed
 global.sc = 'https://m.youtube.com/watch?v=l-Rg2k4IjRw' //script link
 global.linkz = 'https://m.youtube.com/watch?v=l-Rg2k4IjRw'
 global.reactmoji = "😉" //ur menu react emoji
 global.themeemoji = "🚫" //ur theme emoji
-global.packname = "°•°•dInEtH rUsIrU•°•°" //ur sticker watermark packname
-global.author = "Dineth Rusiru" //ur sticker watermark author
+global.packname = "°•°•R4K TEDDY•°•°" //ur sticker watermark packname
+global.author = "R4K TEDDY" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
